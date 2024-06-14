@@ -62,6 +62,9 @@ void main() {
 }
 
 String spellWord(int carAge) {
+  if (carAge < 0) {
+    return "";
+  }
   return carAge <= 1 ? 'year' : 'years';
 }
 
