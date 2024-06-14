@@ -21,8 +21,8 @@
 main/
 ├──.idea/
 ├──projects/
-|    ├── Project 00 Using 'Class'.dart  // Individual car objects
-|    ├── Project 01 Using 'Class'.dart  // List-based car management
+|    ├── Project 00 Using 'Class'.dart  // Individual
+|    ├── Project 01 Using 'Class'.dart  // List-based
 └── README.md                    // This file
 ```
 ___
